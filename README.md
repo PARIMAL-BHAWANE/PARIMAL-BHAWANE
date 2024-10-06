@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PARIMAL-BHAWANE
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science And Engineering
+- 🌱 Graduated from Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me using linkedin (www.linkedin.com/in/parimal-bhawane-2033521a3)
 
